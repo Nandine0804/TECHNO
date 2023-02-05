@@ -943,6 +943,7 @@ li {
     }
     .body__rounds h2 {
         margin-left: 20px;
+        font-size: 1rem;
     }
     .body__rules {
         display: flex;
@@ -1069,6 +1070,7 @@ li {
     }
     .body__rounds h2 {
         margin-left: 20px;
+        font-size: 1rem;
     }
     .body__rules {
         display: flex;
@@ -1196,6 +1198,7 @@ li {
     }
     .body__rounds h2 {
         margin-left: 10px;
+        font-size: 0.9rem;
     }
     .body__rules {
         display: flex;
@@ -1254,5 +1257,11 @@ li {
     }
     button a {
         font-size: 10px;
+    }
+}
+
+@media screen and (max-width:290px) {
+    .body__list-button {
+        margin-top: 530px;
     }
 }

@@ -250,15 +250,16 @@ li {
     display: flex;
     flex-wrap: wrap;
     margin: 40px 80px;
-    height: 75vh;
+    height: 40n vh;
     color: white;
     flex-direction: row;
+    gap: 30px;
 }
 
 .coordinate {
     display: flex;
     flex-wrap: wrap;
-    margin: -270px 170px;
+    margin: -240px 170px;
     justify-content: center;
     float: left;
     font-size: 19px;
@@ -267,13 +268,13 @@ li {
 }
 
 .body__rules h2 {
-    color: black;
+    color: rgb(218, 190, 239);
     font-size: 1.2rem;
     text-align: left;
 }
 
 h2 {
-    color: black;
+    color: rgb(218, 190, 239);
     font-size: 1.2rem;
 }
 
@@ -542,7 +543,7 @@ li {
         margin-bottom: 40px;
     }
     .body__list-button {
-        margin-top: 190px;
+        margin-top: 20px;
         margin-left: 10px;
         display: flex;
         flex-direction: row;
@@ -555,7 +556,7 @@ li {
 
 @media screen and (min-width: 1400px) {
     .body__list-button {
-        margin-top: 50px;
+        margin-top: 30px;
         margin-left: 10px;
         display: flex;
         flex-direction: row;
@@ -645,7 +646,7 @@ li {
         margin-top: 30px;
     }
     .body__list-button {
-        margin-top: 500px;
+        margin-top: 200px;
         margin-left: 50px;
         margin-bottom: 60px;
         display: flex;
@@ -762,7 +763,7 @@ li {
         margin-top: 30px;
     }
     .body__list-button {
-        margin-top: 450px;
+        margin-top: 250px;
         margin-left: 50px;
         margin-bottom: 60px;
         display: flex;
@@ -872,7 +873,7 @@ li {
         margin-top: 30px;
     }
     .body__list-button {
-        margin: 510px auto;
+        margin: 250px auto;
         margin-bottom: 30px;
         display: flex;
         flex-direction: column;
@@ -1001,7 +1002,7 @@ li {
         margin-top: 30px;
     }
     .body__list-button {
-        margin-top: 510px;
+        margin-top: 270px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -1132,7 +1133,7 @@ li {
         margin-top: 30px;
     }
     .body__list-button {
-        margin-top: 650px;
+        margin-top: 290px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -1254,7 +1255,7 @@ li {
         margin-left: -10px;
     }
     .body__list-button {
-        margin-top: 62rem;
+        margin-top: 360px;
         display: flex;
         flex-direction: column;
         align-items: center;

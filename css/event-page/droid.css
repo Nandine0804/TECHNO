@@ -259,7 +259,7 @@ li {
 .coordinate {
     display: flex;
     flex-wrap: wrap;
-    margin: -320px 170px;
+    margin: -270px 170px;
     justify-content: center;
     margin-bottom: 30px;
     float: left;

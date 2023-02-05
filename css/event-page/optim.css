@@ -957,6 +957,7 @@ li {
     }
     .body__rounds h2 {
         margin-left: 20px;
+        font-size: 1rem;
     }
     .body__rules {
         display: flex;
@@ -1083,6 +1084,7 @@ li {
     }
     .body__rounds h2 {
         margin-left: 20px;
+        font-size: 1rem;
     }
     .body__rules {
         display: flex;
@@ -1214,6 +1216,7 @@ li {
     }
     .body__rounds h2 {
         margin-left: 10px;
+        font-size: 0.8rem;
     }
     .body__rules {
         display: flex;

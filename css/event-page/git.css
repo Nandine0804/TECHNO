@@ -8,6 +8,11 @@
     transition: all 0.4s ease-in-out;
 }
 
+ol li {
+    text-decoration: none;
+    color: white;
+}
+
 body,
 html {
     background: #c33764;
