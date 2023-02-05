@@ -936,7 +936,7 @@ body {
         color: #fff;
     }
     .contact {
-        height: 100vh;
+        height: 110vh;
         padding: 25px;
     }
     .hero h1 {
@@ -1041,7 +1041,7 @@ body {
         max-width: 90vw;
     }
     .container {
-        height: 90vh;
+        height: 110vh;
         width: 110vw;
     }
     .contact__cont-title .contact__image {
@@ -1064,7 +1064,7 @@ body {
         color: #fff;
     }
     .contact {
-        height: 110vh;
+        height: 130vh;
         overflow: hidden;
     }
     .contact__contactusbox ul {
@@ -1425,6 +1425,9 @@ body {
         overflow-x: hidden;
         max-width: 120vw;
     }
+    .container {
+        width: 150vw;
+    }
     .contact__cont-title .contact__image {
         margin-top: 50px;
     }
@@ -1450,6 +1453,7 @@ body {
     }
     .contact {
         height: 140vh;
+        width: 150vw;
     }
     .hero h1 {
         font-size: 36px;
